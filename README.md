@@ -1,4 +1,11 @@
 # -GenZ-Career-Aspirations-Dashboard
+
+
+![proj_1](https://github.com/prafulyelekar/-GenZ-Career-Aspirations-Dashboard/assets/123238225/f250a139-4f21-4aaa-aec1-21c757e81dc3)
+
+
+
+
 This project uses real-time data and surveys to explore Generation Z's career goals, showing results in an Excel  Dashboard for easy understanding.
 
 
@@ -12,6 +19,7 @@ into.
 
 • Now, why does it matter what Gen-Z wants to be when they grow up? Well, it's a big deal for bosses, teachers, and people
 who make the rules because it helps them understand what Gen-Z likes and expects from their jobs
+
 
 . My project is like a peek into the future, showing what the next batch of workers is thinking. It's not just numbers and graphs; it's about helping
 businesses get ready for this new group of workers who are about to hit the scene.
