@@ -28,5 +28,20 @@ businesses get ready for this new group of workers who are about to hit the scen
 about me exploring data; it's about helping businesses and teachers understand what's coming and how they can get ready
 for it
 
+
 • This project is like a guide for them, showing the way to be ready for the future workforce. So, it's not just a project; it's a
 handy tool for everyone wanting to get a sneak peek into what's coming next in the job world!
+
+
+![Picture1](https://github.com/prafulyelekar/-GenZ-Career-Aspirations-Dashboard/assets/123238225/427b80dd-068f-4c4e-ba64-5afe81f04cca)
+
+![Picture2](https://github.com/prafulyelekar/-GenZ-Career-Aspirations-Dashboard/assets/123238225/f4c5c801-e7d3-4988-bd14-9d9383ab7977)
+
+![Picture3](https://github.com/prafulyelekar/-GenZ-Career-Aspirations-Dashboard/assets/123238225/5ac5bb0c-30f5-40a2-a1b5-0b53f59d34ea)
+
+
+
+
+
+
+
